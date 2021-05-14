@@ -3,7 +3,7 @@ title: My Best post897
 date: '2021-05-14T15:23:17.262Z'
 type: post
 path: /blog/my-best-post
-draft: true
+draft: false
 hero:
   image: ''
 ---
