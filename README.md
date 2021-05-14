@@ -18,7 +18,7 @@
   - Pre-defined fields
   - Custom fields
   - Formspree Integration
-- Page Builder1
+- Page Builder
 - Dark mode
 - Parallax hero _(css powered, optional)_
 - Syntax highlighting
