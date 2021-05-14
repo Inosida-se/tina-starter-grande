@@ -7,7 +7,6 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-tinacms-json`,
     `gatsby-transformer-json`,
-    'gatsby-plugin-loadable-components-ssr',
     {
       resolve: "gatsby-plugin-tinacms",
       options: {
