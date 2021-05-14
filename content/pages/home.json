@@ -8,24 +8,24 @@
     }
   ],
   "hero": {
-    "headline": "My blogg!👊",
+    "headline": "My blogg!",
     "textline": "template is filled with sample content to get you started.",
     "ctas": [
-      {
-        "label": "Contact Us",
-        "link": "/contact",
-        "arrow": false,
-        "primary": false
-      },
       {
         "label": "Read The Blog",
         "link": "/blog",
         "primary": true,
         "arrow": true
+      },
+      {
+        "label": "Contact Us",
+        "link": "/contact",
+        "arrow": false,
+        "primary": false
       }
     ],
     "image": "../images/[object Object]",
-    "large": true
+    "large": false
   },
   "displayTitle": false,
   "title": "Home"
