@@ -34,5 +34,10 @@
       "content": ""
     }
   ],
-  "displayTitle": true
+  "displayTitle": true,
+  "hero": {
+    "headline": "Hello Whats my name",
+    "textline": "LOL",
+    "image": "../images/"
+  }
 }
