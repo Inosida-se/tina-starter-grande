@@ -15,7 +15,7 @@
 - **Full [TinaCMS](http://tinacms.org) integration**
 - Easy Theme Customization
 - Form Builder
-  - Pre-defined fields1
+  - Pre-defined fields
   - Custom fields
   - Formspree Integration
 - Page Builder
