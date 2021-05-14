@@ -1,10 +1,10 @@
 {
-  "title": "About",
+  "title": "About us",
   "path": "/about",
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "",
+      "title": "About ",
       "underline": true,
       "content": ""
     },
